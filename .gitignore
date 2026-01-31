@@ -1,0 +1,17 @@
+# virtual env
+venv/
+
+# datasets
+data/
+
+# trained models
+model/*.h5
+model/*.pt
+model/*.pth
+
+# python cache
+__pycache__/
+*.pyc
+
+# env files
+.env
